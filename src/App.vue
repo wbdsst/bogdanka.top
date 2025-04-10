@@ -73,6 +73,7 @@ export default {
   padding: 20px;
   text-align: center;
   color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .wrapper h1 {
