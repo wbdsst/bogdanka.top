@@ -66,8 +66,8 @@ export default {
 }
 
 .wrapper {
-  width: 1200px;
-  height: 700px;
+  width: 100svh;
+  height: 60svh;
   border-radius: 50px;
   background-color: #1f0f24;
   padding: 20px;
